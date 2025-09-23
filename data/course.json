@@ -1,0 +1,59 @@
+{
+  "term": "January IAP",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nanotechnology"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "legacy_uid": "6fce9225-921b-57fb-834b-ede38987de5c",
+  "instructors": {
+    "content": [
+      "95041ae9-ab5b-75af-f711-13fcd917f464"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0d65d247-755b-1b27-7757-36fcc54da9ed",
+    "website": "1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007"
+  },
+  "course_title": "From Nano to Macro: Introduction to Atomistic Modeling Techniques",
+  "course_description": "The objective of this course is to introduce large-scale atomistic modeling techniques and highlight its importance for solving problems in modern engineering sciences. We demonstrate how atomistic modeling can be used to understand how materials fail under extreme loading, involving unfolding of proteins and propagation of cracks.\n\nThis course was featured in an MIT {{% resource_link \"aae60bfb-f9ee-4390-9387-e19792068037\" \"Tech Talk article.\" %}}\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.978",
+  "course_image_thumbnail": {
+    "content": "9516eb99-e6b4-404c-bed6-e8c4692b4a8e",
+    "website": "1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "faabea94-1510-4dda-a66d-b10f40710a7f",
+  "site_short_id": "1.978-january-iap-2007",
+  "site_url_path": "courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007",
+  "title": "Course Metadata"
+}
