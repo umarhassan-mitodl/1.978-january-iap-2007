@@ -5,6 +5,8 @@ description: 'This resource contains simulation results for the course projects:
 file: /courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/8c6507348e0a9d767759171147ab00f9_fix.pdb
 file_size: 530860
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

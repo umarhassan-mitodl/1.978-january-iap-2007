@@ -37,7 +37,8 @@
     "website": "1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007"
   },
   "course_title": "From Nano to Macro: Introduction to Atomistic Modeling Techniques",
-  "course_description": "The objective of this course is to introduce large-scale atomistic modeling techniques and highlight its importance for solving problems in modern engineering sciences. We demonstrate how atomistic modeling can be used to understand how materials fail under extreme loading, involving unfolding of proteins and propagation of cracks.\n\nThis course was featured in an MIT {{% resource_link \"aae60bfb-f9ee-4390-9387-e19792068037\" \"Tech Talk article.\" %}}\n",
+  "hide_download": true,
+  "course_description": "The objective of this course is to introduce large-scale atomistic modeling techniques and highlight its importance for solving problems in modern engineering sciences. We demonstrate how atomistic modeling can be used to understand how materials fail under extreme loading, involving unfolding of proteins and propagation of cracks.\n\nThis course was featured in an MIT [Tech Talk article.](http://web.mit.edu/newsoffice/2007/atomistic.html)\n",
   "department_numbers": [
     "1"
   ],
@@ -47,6 +48,7 @@
     "content": "9516eb99-e6b4-404c-bed6-e8c4692b4a8e",
     "website": "1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Lecture Notes",
