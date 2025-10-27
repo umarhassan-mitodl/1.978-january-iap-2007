@@ -6,8 +6,6 @@ description: This section provides information on the final project for the cour
   and unfolding of a protein. All three examples serve the purpose of becoming more
   acquainted with MD, including setting up problems, analysis methods and interpretation
   of results.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
